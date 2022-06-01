@@ -1,3 +1,8 @@
+# Firmware Extraction
+This is an example of how you can extract the neccesary files required for the docker container.
+
+NOTE: Make sure you update `<URL_OF_THE_UNVR_FIRMWARE.BIN>` As a suggestion, check https://community.ui.com/releases for the required firmware.
+
 ```bash
 #!/bin/bash
 set -e
